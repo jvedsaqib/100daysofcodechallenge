@@ -28,7 +28,7 @@ cpp            065
 python         050 
 ================================
 
-Solution - 
+Solution
 
 */
 
