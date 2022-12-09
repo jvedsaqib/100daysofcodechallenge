@@ -14,7 +14,6 @@ Sample Output
 Yes
 
 Solution -
-
 */
 
 import java.io.*;
